@@ -7,12 +7,6 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 
-#define BASE 0
-#define FUNC1 1
-#define FUNC2 2
-#define FUNC3 3
-#define FUNC4 4
-
 //
 // ---------- KBD8X key switch positions ----------
 //
