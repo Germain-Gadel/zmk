@@ -1,0 +1,9 @@
+# Copyright (c) 2023 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if BOARD_KBD8X
+
+config ZMK_KEYBOARD_NAME
+    default "kbd8x"
+
+endif # BOARD_KBD8X

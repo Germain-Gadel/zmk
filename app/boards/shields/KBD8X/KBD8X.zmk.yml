@@ -1,0 +1,9 @@
+file_format: "1"
+id: KBD8X
+name: KBD8X
+type: shield
+url: https://github.com/Germain-Gadel/zmk-config-kbd8x
+requires: [adafruit_kb2040]
+features:
+  - keys
+  - encoder
