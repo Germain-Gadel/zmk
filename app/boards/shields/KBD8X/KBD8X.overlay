@@ -14,8 +14,8 @@
 
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
-        columns = <17>;
-        rows = <5>;
+        columns = <18>;
+        rows = <6>;
 
 //  ------- Switch Matrix ----------
 //
